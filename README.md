@@ -6,3 +6,5 @@ Models used:
 - Decision Tree
 - Support Vector Machine
 - Logistic Regression
+
+The description and steps taken to do the modeling is dictated in the notebook.
